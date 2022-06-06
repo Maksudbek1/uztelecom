@@ -1,0 +1,2 @@
+# uztelecom
+mobile operator
